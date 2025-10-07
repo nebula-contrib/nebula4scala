@@ -12,7 +12,7 @@ val nebulaClientVersion    = "3.8.4"
 val catsVersion            = "2.9.0"
 val catsEffectVersion      = "3.6.3"
 val fs2Version             = "3.12.2"
-val scalaCollectionVersion = "2.13.0"
+val scalaCollectionVersion = "2.14.0"
 
 val logbackVersion              = "1.4.11"
 val silencerVersion             = "1.4.2"
