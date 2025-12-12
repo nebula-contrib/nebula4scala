@@ -6,7 +6,7 @@ import xerial.sbt.Sonatype.sonatypeCentralHost
 val zioVersion             = "2.1.21"
 val scala3_Version         = "3.6.3"
 val scala2_13Version       = "2.13.16"
-val scala2_12Version       = "2.12.20"
+val scala2_12Version       = "2.12.21"
 val zioConfigVersion       = "4.0.5"
 val nebulaClientVersion    = "3.8.4"
 val catsVersion            = "2.9.0"
