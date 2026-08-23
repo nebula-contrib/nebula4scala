@@ -10,7 +10,7 @@ val scala2_12Version       = "2.12.20"
 val zioConfigVersion       = "4.0.5"
 val nebulaClientVersion    = "3.8.4"
 val catsVersion            = "2.9.0"
-val catsEffectVersion      = "3.6.3"
+val catsEffectVersion      = "3.6.4"
 val fs2Version             = "3.12.2"
 val scalaCollectionVersion = "2.13.0"
 
