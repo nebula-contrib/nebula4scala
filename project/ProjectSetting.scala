@@ -5,7 +5,7 @@ import sbt.Keys._
 
 object ProjectSetting {
 
-  val pureconfigVersion = "0.17.8"
+  val pureconfigVersion = "0.17.11"
 
   def isScala3(scalaVersion: String): Boolean = {
     CrossVersion.partialVersion(scalaVersion) match {
